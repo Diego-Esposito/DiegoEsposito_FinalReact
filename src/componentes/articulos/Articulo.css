@@ -1,0 +1,11 @@
+.articulo{
+    
+    background-color: #f3f3f3;
+    border: 2px solid #343434;
+    padding: 1rem;
+    margin: 2rem;
+    text-align: center;
+}
+.articulo img{
+    width: 20%;
+}
